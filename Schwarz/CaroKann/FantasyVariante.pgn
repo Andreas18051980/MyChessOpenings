@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "winepuch"]
+[Black "Fritz"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "9"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 (5. dxe5 Qh4+ )*
+

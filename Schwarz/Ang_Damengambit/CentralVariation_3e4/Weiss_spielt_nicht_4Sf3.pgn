@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "winepuch"]
+[Black "Fritz"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "16"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. d5 (4. dxe5 Qxd1+ 5. Kxd1 Nc6 6. f4 (6. Bf4 Be6 7. Nf3 Nge7 )(6. Nd2 Nxe5 7. Nxc4 Nc6 )Bg4+ 7. Nf3 0-0-0+ )Nf6 5. Nc3 (5. f3 b5 6. a4 (6. Nc3 a6 7. a4 b4 8. Nb1 c6 9. Bxc4 cxd5 10. exd5 Nbd7 {Idee Sb6} )c6 7. dxc6 (7. axb5 cxd5 )Nxc6 8. axb5 Bb4+ {zum Beispiel!} 9. Bd2 Bc5 10. bxc6 Qd4 11. Qe2 Qxb2 )(5. Qc2 b5 6. a4 c6 7. axb5 (7. dxc6 Nxc6 {deutlich besser für Schwarz -1.9} )cxd5 8. exd5 Nbd7 9. Bxc4 Bb7 10. Nc3 Qc7 )b5 6. Nxb5 (6. f3 a6 7. a4 b4 8. Nb1 c6 9. Bxc4 cxd5 10. exd5 Nbd7 11. Bg5 Bb7 )(6. a3 Bc5 )Nxe4 7. Nc3 (7. Bxc4 Bb4+ 8. Kf1 Nxf2 ({oder einfach: } 8... 0-0 9. Qe2 Nd6 10. Nxd6 Bxd6 )9. Qa4 0-0 10. Qxb4 Nxh1 {besser für Schwarz, taktische Stellung. } )(7. Qa4 c6 8. dxc6 Nxc6 {besser für Schwarz, taktische Stellung. Lb4 droht! } 9. Nc3 Nxc3 )Nxc3 8. bxc3 Bc5 *
+

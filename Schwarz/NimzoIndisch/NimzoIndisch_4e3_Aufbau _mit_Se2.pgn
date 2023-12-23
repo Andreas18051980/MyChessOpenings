@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "winepuch"]
+[Black "Fritz"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 0-0 5. a3 Bxc3+ 6. bxc3 c5 7. Bd3 Nc6 8. Ne2 (8. e4 d5 9. cxd5 exd5 10. e5 Ne4 11. Ne2 Bg4 12. Bb2 cxd4 13. cxd4 Qa5+ 14. Kf1 Qb6 15. Rb1 Nxd4 16. Bxd4 Bxe2+ 17. Qxe2 Qxd4 )b6 9. e4 Ne8 {gegen Lg5 und evtl Druck gegen c4 mit Sd6} 10. 0-0 Ba6 11. f4 f5 12. exf5 exf5 13. dxc5 bxc5 14. Be3 d6 15. Ng3 g6 16. Bxf5 gxf5 17. Qd5+ Rf7 18. Qxc6 Bb7 19. Qa4 h5 {siehe Game 12: Hikaru Nakamura - Andrei Volokitin } 20. Rab1 Ng7 *
+

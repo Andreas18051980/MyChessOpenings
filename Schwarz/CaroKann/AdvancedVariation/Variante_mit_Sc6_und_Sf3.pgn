@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "winepuch"]
+[Black "Fritz"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "18"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Nf3 Bg4 6. c3 (6. Bb5 {noch anzuschauen} )a6 ({auf keinen Fall ..} 6... Nxe5 7. Nxe5 {ist in mehreren varianten möglich} Bxd1 8. Bb5+ )7. Be3 (7. Qb3 )(7. Nbd2 )Nxe5 8. Nbd2 e6 9. Be2 (9. Qa4+ Qd7 )Nc6 {mit Ausgleich} *
+
