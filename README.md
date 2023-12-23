@@ -1,0 +1,2 @@
+# MyChessOpenings
+Sammlung meine Eroeffnungen
