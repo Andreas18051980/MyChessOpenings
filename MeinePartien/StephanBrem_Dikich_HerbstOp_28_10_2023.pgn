@@ -1,0 +1,14 @@
+﻿[Event "Herbst Open deizisau 2023"]
+[White "Brem,Stephan"]
+[Black "Dikich,Andreas"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date "2023.10.28"]
+[WhiteElo "2115"]
+[BlackElo "1824"]
+[PlyCount "63"]
+
+1. b3 d5 2. Bb2 Bf5 3. e3 e6 4. f4 Nf6 5. Nf3 c5 (5... Bd6 )6. Bb5+ Nc6 7. Bxc6+ bxc6 8. Ne5 Qc7 9. 0-0 h6 {War gegen g4 gerichtet} ({aber besser ist:} 9... Bd6 10. g4 Bg6 11. f5 Bxe5 )10. d3 Nd7 (10... Bd6 11. Nd2 0-0 {und alles ist gut! Geister gesehen!} )11. Nd2 Nxe5 12. Bxe5 Qd7 13. e4 Bh7 14. Qh5 Bg6 (14... 0-0-0 )15. Qg4 Bh7 16. f5 exf5 17. exf5 f6 18. Bb2 Bd6 (18... 0-0-0 )19. Rae1+ Kf8 20. Re6 Bg8 21. Nf3 (21. Bxf6 gxf6 (21... Bxe6 22. fxe6 Qb7 23. Bxg7+ )22. Qg6 Bxe6 23. Qxf6+ Kg8 (23... Bf7 24. Qxh8+ Bg8 25. Qf6+ Ke8 (25... Bf7 26. Qxh6+ Kg8 27. Nf3 )26. Re1+ Be7 27. Qg7 )24. Qg6+ Qg7 25. Qxe6+ Kh7 26. Qxd6 )Re8 (21... h5 22. Qg6 (22. Qh3 Bxe6 23. fxe6 Qc7 )Bxe6 23. fxe6 Qe8 24. Nh4 Qxg6 25. Nxg6+ Kg8 )(21... Bxe6 22. fxe6 Qc7 23. Nh4 h5 24. Qg5 d4 )22. Bxf6 Rxe6 23. fxe6 Bxe6 24. Bxg7+ Kg8 25. Qg6 Bf5 26. Qf6 Be7 27. Qa1 Rh7 28. Be5 Bg4 29. Qe1 Rf7 30. Qg3 Kf8 (30... Kh7 )31. Bf4 {Macht Feld frei!} h5 (31... Bxf3 32. Bxh6+ Ke8 33. Qg8+ Bf8 34. Rxf3 Rxf3 35. gxf3 Qf7 )32. Ne5 1-0
+
