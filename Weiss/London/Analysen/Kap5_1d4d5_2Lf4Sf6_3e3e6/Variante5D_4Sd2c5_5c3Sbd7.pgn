@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "Fritz"]
+[Black "winepuch"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "41"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Nd2 c5 5. c3 Nbd7 (5... Bd6 6. Bxd6 Qxd6 7. f4 {Stonewall, siehe Variante 5H, zum Beispiel: } 0-0 (7... b6 8. Nh3 0-0 9. Qf3 a5 10. Bd3 Nc6 11. e4 dxe4 12. Nxe4 Qd7 (12... Nxe4 13. Bxe4 Nxd4 (13... Bb7 14. Bxh7+ Kxh7 15. Qh5+ Kg8 16. Ng5 )14. cxd4 Ra7 15. dxc5 Qxc5 16. Qc3 )13. Nxf6+ gxf6 14. 0-0-0 )8. Bd3 b6 9. Qe2 cxd4 10. cxd4 a5 11. Ngf3 Ba6 12. Bxa6 Nxa6 13. 0-0 )(5... Be7 6. Bd3 0-0 7. h3 Nc6 {siehe Variante 5H, Alternativen im 6. Zug} )(5... b6 6. Ngf3 Be7 (6... Bd6 7. Bb5+ Ke7 (7... Bd7 8. Bxd6 Bxb5 9. dxc5 )8. Ne5 )7. Bd3 0-0 (7... Nh5 8. Bxb8 Rxb8 9. Ne5 Nf6 10. Nc6 )8. Ne5 Bb7 9. Qf3 {Beispielpartie 3} )6. Bd3 Be7 ({wenn, dann Beispielpartie zur Veranschaulichung der Angriffsmöglichkeiten/Ideen} 6... a6 7. Ngf3 b5 8. Ne5 Bb7 9. 0-0 c4 10. Bc2 Be7 11. Qf3 0-0 12. Qh3 g6 13. Ndf3 Nh5 14. Bh6 Re8 15. g4 Ng7 (15... Nhf6 16. Bf4 )16. Bxg7 Kxg7 17. Nxf7 )7. Ngf3 0-0 (7... Nh5 8. Be5 Nxe5 9. Nxe5 Nf6 10. 0-0 0-0 11. Qf3 )8. Ne5 Ne8 9. h4 Nxe5 10. dxe5 Bd7 11. Bxh7+ Kxh7 12. Qh5+ Kg8 13. Nf3 Bb5 (13... f6 14. Ng5 fxg5 15. hxg5 Rf5 16. Qh8+ Kf7 17. g6+ Kxg6 18. g4 Rxe5 19. Bxe5 Kf7 20. Qh5+ Kf8 21. f4 Bf6 22. 0-0-0 )(13... g6 14. Qh6 f6 15. Qxg6+ Ng7 16. Ng5 fxg5 17. hxg5 Rxf4 18. exf4 )14. Rd1 g6 15. Qh6 f6 16. exf6 Bxf6 17. Qxg6+ Kh8 18. Ng5 Qd7 19. Rh3 Qg7 20. Qh5+ Kg8 21. Nxe6 *
+
