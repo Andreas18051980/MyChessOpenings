@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "winepuch"]
+[Black "Fritz"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "19"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Nd2 c5 (4... Bd6 5. Bxd6 cxd6 6. Ngf3 {mit dem Plan c4, oder: } Qb6 7. b3 {und 8. c4 ..} )5. c3 Nc6 6. Bd3 Bd6 (6... Qb6 7. Rb1 )(6... Be7 7. h3 b6 (7... 0-0 8. Ngf3 Bd6 (8... c4 9. Bc2 b5 10. 0-0 b4 11. e4 dxe4 12. Nxe4 Nd5 13. Bd2 Qb6 14. Qe2 Rb8 15. Rfe1 )9. Ne5 Bxe5 10. dxe5 Nd7 11. Nf3 h6 (11... Qc7 12. Bxh7+ )12. Bc2 Re8 13. 0-0 b6 14. e4 )8. Ngf3 Bb7 9. 0-0 0-0 10. Re1 {(Beispiel)} )7. Bxd6 Qxd6 8. f4 cxd4 (8... Rb8 9. Nh3 b5 10. a3 b4 (10... c4 11. Bc2 Ne7 (11... a5 12. e4 )12. 0-0 Bb7 13. Qf3 0-0 14. Nf2 )11. axb4 cxb4 12. 0-0 bxc3 13. bxc3 0-0 14. e4 dxe4 15. Nxe4 Nxe4 16. Bxe4 h6 17. Nf2 )(8... Bd7 9. Nh3 Rb8 10. 0-0 b5 11. a3 a5 12. Qf3 0-0 13. Nf2 c4 14. e4 )9. cxd4 Nb4 (9... Qb4 10. Rb1 Ne4 11. Bxe4 dxe4 12. a3 Qa5 13. Ne2 f5 14. b4 Qxa3 15. Rb3 Qa6 16. b5 )10. Be2 {ab hier evtl. Partien anschauen!} *
+
