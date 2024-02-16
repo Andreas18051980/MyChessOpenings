@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "winepuch"]
+[Black "Fritz"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "24"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Qa4+ Nbd7 6. Nc3 g6 7. Nf3 Bg7 8. Bc4 (8. Qb3 0-0 9. Bc4 Nc5 10. Qa3 Nce4 11. 0-0 Nd6 {unterstützt evtl. Bauernvormarsch auf dem Damenflügel} )0-0 9. d3 (9. 0-0 Nb6 10. Qb3 Nxc4 11. Qxc4 b6 )a6 10. Qa3 (10. 0-0 b5 11. Bxb5 Nb6 )(10. Be3 Ng4 )b6 11. 0-0 Bb7 12. Re1 Re8 {Mögliche Pläne: b5 gefolgt von Sb6 mit Druck auf d5, evtl. danach a5, b4 mit Spiel gegen die Figuren am Damenflügel} *
+

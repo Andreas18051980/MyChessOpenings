@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "winepuch"]
+[Black "Fritz"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "28"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 (6. d4 Nxc3 7. bxc3 g6 8. Nf3 Bg7 {wie Hauptvariante} )(6. Bc4 Nb6 7. Bb3 g6 8. Qf3 e6 9. d4 Bg7 )(6. Bb5+ Bd7 7. Bc4 (7. Qb3 Nb6 8. Nf3 Bxb5 9. Qxb5+ Nc6 10. d4 (10. Ne5 Rc8 )e6 11. 0-0 Be7 12. Rd1 0-0 )Bc6 )(6. Qb3 Nb6 7. Nf3 Nc6 8. d4 Be6 9. Qd1 g6 10. Bb5 Bg7 11. Ne5 0-0 )(6. Qa4+ Nc6 7. Bb5 Qd6 8. Nf3 (8. Ne4 Qg6 9. Nf3 Nb6 )Bd7 9. 0-0 a6 {droht Sb6} )Nxc3 ({Möglich ist auch: } 6... e6 7. d4 Bb4 {mit Spiel gegen den Isolani, z.B. bei Spiel gegen einen schwächeren Gegner} )7. bxc3 (7. dxc3 Qxd1+ 8. Kxd1 Nc6 {Ausgleich} )g6 8. d4 (8. Bb5+ Bd7 )(8. Bc4 Bg7 9. d4 Nc6 10. 0-0 0-0 )(8. Qa4+ Nc6 9. Ne5 Bd7 10. Nxd7 Qxd7 )Bg7 9. Bd3 0-0 10. 0-0 Nc6 11. Re1 e5 12. Nxe5 (12. dxe5 Bg4 13. Bf4 Qa5 14. Rb1 Rad8 15. Rxb7 Bxe5 )Nxe5 13. dxe5 Qa5 14. Bf4 Be6 {Plan: Türme auf die d- und c-Linie, mit Druck gegen e5, c3 und a2!} (14... Qxc3 15. Rc1 {gibt Weiss etwas Initiative!} )*
+
