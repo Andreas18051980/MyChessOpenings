@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "winepuch"]
+[Black "Fritz"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "16"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng5 Bf5 6. Bc4 (6. Nxf7 Kxf7 7. Bc4+ (7. Nf3 e6 8. Ne5+ (8. Ng5+ Kg8 9. Bc4 Na6 10. Qe2 Qe8 11. 0-0 (11. Nxe6 Nd5 {wichtiger Zug, merken!} )(11. Bxe6+ Bxe6 12. Nxe6 h6 13. c3 Kf7 )Nc7 12. Re1 Bd6 13. Nxe6 Nxe6 14. Bxe6+ Bxe6 15. Qxe6+ Qxe6 16. Rxe6 Rd8 )Ke8 9. g4 (9. Bc4 Bd6 )Be4 10. f3 Bg6 11. h4 Nbd7 12. Qe2 (12. Bc4 Nxe5 13. dxe5 Qa5+ )Nxe5 13. dxe5 (13. Qxe5 Qd5 )Nd5 )e6 8. Nf3 Bd6 9. Ng5+ Ke7 10. 0-0 (10. Qe2 Re8 11. Rg1 Kd7 12. g4 Bg6 )Na6 11. Re1 (11. Bxa6 bxa6 12. Qe2 Re8 )Nc7 )(6. N1f3 h6 ({nicht!: } 6... e6 7. Ne5 Bg6 8. Bd3 )7. Nxf7 Kxf7 8. Bc4+ e6 9. Ne5+ Ke8 10. g4 Bh7 11. Bxe6 Nbd7 12. Nxd7 (12. f4 Qe7 13. Bb3 Nxe5 14. fxe5 Nd5 )Nxd7 13. 0-0 Bb4 14. c3 Nf8 )e6 7. Ne2 (7. N1f3 h6 8. Nh3 (8. Nxf7 Kxf7 9. Ne5+ Ke7 10. g4 Bh7 )Bd6 )h6 8. Nf3 (8. Nxf7 Kxf7 9. Ng3 Nbd7 10. Nxf5 (10. 0-0 Nb6 11. Bb3 Bg6 )Qa5+ )Be4 *
+
