@@ -1,0 +1,12 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "Fritz"]
+[Black "winepuch"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "23"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 0-0 5. Be2 b6 {Db6 nicht mehr moeglich} 6. 0-0 (6. c4 {evtl ist genauer um die Ausgangsstellung im 9. Zug zu erreichen} d6 7. h3 Bb7 8. Nc3 c5 (8... Ne4 9. Nxe4 Bxe4 10. 0-0 c5 11. Bg3 Nd7 12. Ng5 Bb7 13. Bf3 )9. 0-0 )Bb7 (6... d6 7. h3 c5 8. c4 Bb7 9. Nc3 )7. c4 d6 8. h3 c5 (8... Nbd7 9. Nc3 Ne4 (9... Re8 10. Bh2 e5 11. Rc1 )(9... Qe8 10. Bh2 e5 (10... Ne4 11. Nxe4 Bxe4 12. Nd2 Bb7 13. Bf3 )11. Nb5 Qc8 12. dxe5 dxe5 13. Nxe5 )10. Nxe4 Bxe4 11. Nd2 Bb7 12. Bf3 Bxf3 13. Nxf3 e5 14. Bg3 {=  zu analysierende Stellung, Spielplan suchen} )9. Nc3 {Diese Stellung bei Doppelfianchetto anstreben. Ab hier Partien analysieren, zu folgenden Fortsetzungen: Sbd7, cd4, Se4, Sc6} Ne4 (9... Nc6 10. d5 )10. Nxe4 Bxe4 11. Nd2 Bb7 12. Bf3 *
+

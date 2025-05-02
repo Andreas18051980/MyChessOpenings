@@ -1,0 +1,14 @@
+﻿[Event "Stufe Vereinsspieler"]
+[White "winepuch"]
+[Black "Fritz"]
+[Site "ICCF email"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date "2014.12.01"]
+[WhiteElo "2407"]
+[BlackElo "2294"]
+[PlyCount "125"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 0-0 5. Be2 d6 6. h3 c5 7. 0-0 b6 8. c4 Bb7 9. Nc3 cxd4 10. exd4 d5 (10... Ne4 11. Nxe4 Bxe4 12. Rc1 Nd7 13. Qd2 {mit der Idee d5 zu spielen} e5 (13... Rc8 {wenn nun} 14. d5 )14. Be3 )11. Ne5 dxc4 (11... e6 12. Bf3 Nc6 13. Rc1 )(11... Nc6 12. Bf3 e6 13. Rc1 )(11... Nbd7 12. Bf3 e6 13. Re1 )12. Bxc4 e6 (12... Nd5 13. Nxd5 Bxd5 14. Qb3 Bxc4 15. Qxc4 )(12... Nc6 13. Nxc6 Bxc6 14. d5 Bb7 15. Re1 Rc8 16. Bb3 )13. Re1 Nc6 14. Nxf7 {laut Lichess korrekt} (14. Nxc6 Bxc6 15. Be5 {auch moeglich, aber schwächer} )Rxf7 15. Bxe6 Qxd4 16. Bxf7+ Kxf7 17. Qb3+ Kf8 18. Bg3 Qd7 19. Rad1 Qf7 20. Re6 Re8 21. Rxe8+ Kxe8 22. Qa4 a6 23. Qf4 Qe7 24. Qc1 Kf7 25. Na4 b5 26. Nc5 Ba8 27. Re1 Qd8 28. Ne6 Qd7 29. Qe3 Kg8 30. Bh4 Nd5 31. Nc5 Nxe3 32. Nxd7 Nf5 33. Re8+ Kf7 34. Rxa8 Nxh4 35. Rxa6 Nb4 36. Ra5 Bd4 37. a4 bxa4 38. Rxa4 Nc6 39. b4 Na7 40. b5 Nxb5 41. Rb4 Nc3 42. Kf1 Nf5 43. g4 Nd5 44. Ra4 Nc3 45. Rc4 Ne4 46. Rb4 Ned6 47. gxf5 Nxf5 48. Rb8 h6 49. Rc8 Ke7 50. Nc5 Kd6 51. Nd3 g5 52. Ke2 Kd5 53. Nb4+ Ke6 54. Nc2 Bf6 55. Rc6+ Ke5 56. Rc5+ Ke4 57. Rc4+ Ke5 58. Ne3 Nxe3 59. Kxe3 Kf5 60. Rc6 Bg7 61. Rc5+ Kg6 62. f4 gxf4+ 63. Kxf4 1-0
+
